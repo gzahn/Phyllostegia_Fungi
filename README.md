@@ -2,8 +2,8 @@
 
 ### File Descriptions:
 
-| Filename      | Description                                      |   |   |   |
-|---------------|--------------------------------------------------|---|---|---|
-| MEA_Recipe.md | Recipe for growth of fungal endophyte isolations |   |   |   |
-|               |                                                  |   |   |   |
-|               |                                                  |   |   |   |
+| Filename      | Description                                      |
+|---------------|--------------------------------------------------|
+| MEA_Recipe.md | Recipe for growth of fungal endophyte isolations |
+|               |                                                  |
+|               |                                                  |
