@@ -2,7 +2,8 @@
 
 ### File Descriptions:
 
-|Filename|Description|
-|--------|-----------|
-|MEA_recipe.md|Recipe for growth medium used for culturing isolated endophytes|
-|-------------|---------------------------------------------------------------|
+| Filename      | Description                                      |   |   |   |
+|---------------|--------------------------------------------------|---|---|---|
+| MEA_Recipe.md | Recipe for growth of fungal endophyte isolations |   |   |   |
+|               |                                                  |   |   |   |
+|               |                                                  |   |   |   |
