@@ -20,8 +20,8 @@
 
 ## Add the following antibiotics (filter-sterilized):
 
-    Streptomycin \[30 ug/mL]
+    Streptomycin [30 ug/mL]
 
-    Kanamycin \[50 ug/mL]
+    Kanamycin [50 ug/mL]
 
 ## Pour into sterile plates and allow to cool
