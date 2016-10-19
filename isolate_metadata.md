@@ -1,7 +1,7 @@
 Isolate_ID|Genbank Accession No.|Taxonomic Assignment|
 |---------|---------------------|--------------------|
 BR-1|KX988290|Stemphylium herbarum|
-K-1|X988291|Alternaria alternata|
+K-1|KX988291|Alternaria alternata|
 PGB-1|KX988292|Colletotrichum cymbidiicola|
 PGB-3|KX988293|Sordariomycetes sp|
 PHA-1|KX988294|Diaporthe endophytica|
